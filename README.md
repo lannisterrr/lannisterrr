@@ -10,13 +10,12 @@
 - 📫 How to reach me:  @siddhant4real
 
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
-[website]: https://taxet.tech
-[twitter]: https://twitter.com/chowkidarnot
+
+[twitter]: https://twitter.com/siddhantjs
 [instagram]: https://instagram.com/siddhant4real
 [linkedin]: https://www.linkedin.com/in/siddhant-pandey-686624150/
