@@ -1,6 +1,6 @@
 ### Hi there I am Siddhant 👋
 
-###  An average Guy with above average dreams.
+###  Frontend Engineer.
 
 - 🔭 I’m currently working on  Javascript  
 - 🌱 I’m currently learning  React.js
