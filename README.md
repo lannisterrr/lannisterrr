@@ -2,14 +2,6 @@
 
 ###  Frontend Engineer.
 
-- 🔭 I’m currently working on  Javascript  
-- 🌱 I’m currently learning  React.js
-- 👯 I’m looking to collaborate on  React.js
-- 🤔 I’m looking for help with  Node.js
-- 💬 Ask me about  Javascript
-- 📫 How to reach me:  @siddhant4real
-
-
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
